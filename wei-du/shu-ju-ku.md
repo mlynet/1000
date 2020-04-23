@@ -2,6 +2,8 @@
 
 ## 刘奇、黄东旭
 
+刘奇：TiDB、Codis开源项目发起人，PingCAP 联合创始人&CEO
+
 开源数据库：TiDB ，[https://github.com/pingcap/tidb](https://github.com/pingcap/tidb)
 
 {% embed url="https://pingcap.com" %}
