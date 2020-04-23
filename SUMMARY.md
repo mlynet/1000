@@ -1,6 +1,6 @@
 # Table of contents
 
-* [技术创新人物1000](README.md)
+* [技术人物清单](README.md)
 
 ## 维度
 
