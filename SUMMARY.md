@@ -15,6 +15,8 @@
 * [小米](wei-du/xiao-mi-xi.md)
 * [阿里](wei-du/e-li.md)
 * [百度](wei-du/bai-du.md)
+* [京东](wei-du/jing-dong.md)
+* [依图](wei-du/yi-tu.md)
 * [开源](wei-du/kai-yuan.md)
 * [InfoQ](wei-du/infoq.md)
 * [直播和短视频技术服务](wei-du/zhi-bo-he-duan-shi-pin-ji-shu-fu-wu.md)
