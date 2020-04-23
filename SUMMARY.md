@@ -20,6 +20,7 @@
 ## 人物
 
 * [潘爱民](ren-wu/untitled.md)
+* [杨勇](ren-wu/yang-yong.md)
 
 ## 朋友圈
 
