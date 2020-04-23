@@ -32,7 +32,7 @@ description: 'http://blog.sina.com.cn/s/blog_71f1eda80100o74v.html'
 
 刘振飞（阿里合伙人、CRO，当时的安全部副总裁）
 
-## 创业：指令集
+## 创业项目：指令集
 
 潘爱民任CEO，宋扬是首席科技官，是技术研发最高负责人，邢溪是首席市场官。
 

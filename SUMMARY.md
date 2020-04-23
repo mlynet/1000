@@ -16,9 +16,12 @@
 * [开源](wei-du/kai-yuan.md)
 * [CSDN](wei-du/csdn.md)
 * [InfoQ](wei-du/infoq.md)
+* [直播和短视频技术服务](wei-du/zhi-bo-he-duan-shi-pin-ji-shu-fu-wu.md)
+* [数据库](wei-du/shu-ju-ku.md)
 
 ## 人物
 
+* [陈书艺](ren-wu/chen-shu-yi.md)
 * [潘爱民](ren-wu/untitled.md)
 * [杨勇](ren-wu/yang-yong.md)
 
