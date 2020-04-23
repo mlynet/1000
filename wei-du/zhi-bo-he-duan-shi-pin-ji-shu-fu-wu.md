@@ -6,7 +6,9 @@
 
 3D虚拟形象动画创作，短视频内容工具
 
-[http://www.doukan233.com](http://www.doukan233.com/)
+{% embed url="http://www.doukan233.com" %}
+
+
 
 ## 小K动捕
 

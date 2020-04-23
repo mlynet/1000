@@ -4,13 +4,13 @@
 
 ## 维度
 
-* [学会](wei-du/xue-hui.md)
-* [哈工大](wei-du/ha-gong-da.md)
 * [清华](wei-du/qing-hua.md)
+* [哈工大](wei-du/ha-gong-da.md)
 * [微软亚洲研究院](wei-du/wei-ruan-ya-zhou-yan-jiu-yuan.md)
 * [盛大创新院](wei-du/sheng-da-chuang-xin-yuan.md)
 * [智源研究院](wei-du/zhi-yuan-yan-jiu-yuan.md)
-* [头条](wei-du/tou-tiao.md)
+* [头条（抖音）](wei-du/tou-tiao.md)
+* [快手](wei-du/kuai-shou.md)
 * [腾讯](wei-du/teng-xun.md)
 * [小米](wei-du/xiao-mi-xi.md)
 * [阿里](wei-du/e-li.md)
@@ -19,6 +19,7 @@
 * [依图](wei-du/yi-tu.md)
 * [开源人物](wei-du/kai-yuan.md)
 * [InfoQ](wei-du/infoq.md)
+* [学会](wei-du/xue-hui.md)
 * [直播和短视频技术服务](wei-du/zhi-bo-he-duan-shi-pin-ji-shu-fu-wu.md)
 * [数据库](wei-du/shu-ju-ku.md)
 
