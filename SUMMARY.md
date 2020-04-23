@@ -17,7 +17,7 @@
 * [百度](wei-du/bai-du.md)
 * [京东](wei-du/jing-dong.md)
 * [依图](wei-du/yi-tu.md)
-* [开源](wei-du/kai-yuan.md)
+* [开源人物](wei-du/kai-yuan.md)
 * [InfoQ](wei-du/infoq.md)
 * [直播和短视频技术服务](wei-du/zhi-bo-he-duan-shi-pin-ji-shu-fu-wu.md)
 * [数据库](wei-du/shu-ju-ku.md)
@@ -31,7 +31,6 @@
 ## 朋友圈
 
 * [Discuz系](peng-you-quan/discuz.md)
-* [开源人](peng-you-quan/kai-yuan-ren-wu.md)
 * [媒体人](peng-you-quan/mei-ti-ren.md)
 * [投资人](peng-you-quan/tou-zi-ren.md)
 
