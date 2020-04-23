@@ -29,7 +29,7 @@
 
 * [Discuz系](peng-you-quan/discuz.md)
 * [小米系](peng-you-quan/xiao-mi-xi.md)
-* [开源人物](peng-you-quan/kai-yuan-ren-wu.md)
+* [开源人](peng-you-quan/kai-yuan-ren-wu.md)
 * [媒体人](peng-you-quan/mei-ti-ren.md)
 * [投资人](peng-you-quan/tou-zi-ren.md)
 

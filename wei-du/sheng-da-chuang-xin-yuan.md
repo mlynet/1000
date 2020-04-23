@@ -8,6 +8,8 @@
 
 季昕华（UCloud CEO）
 
+潘爱民
+
 
 
 {% embed url="https://www.douban.com/note/337958875/" %}
