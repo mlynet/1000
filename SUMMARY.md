@@ -12,9 +12,10 @@
 * [智源研究院](wei-du/zhi-yuan-yan-jiu-yuan.md)
 * [头条](wei-du/tou-tiao.md)
 * [腾讯](wei-du/teng-xun.md)
+* [小米](wei-du/xiao-mi-xi.md)
 * [阿里](wei-du/e-li.md)
+* [百度](wei-du/bai-du.md)
 * [开源](wei-du/kai-yuan.md)
-* [CSDN](wei-du/csdn.md)
 * [InfoQ](wei-du/infoq.md)
 * [直播和短视频技术服务](wei-du/zhi-bo-he-duan-shi-pin-ji-shu-fu-wu.md)
 * [数据库](wei-du/shu-ju-ku.md)
@@ -28,7 +29,6 @@
 ## 朋友圈
 
 * [Discuz系](peng-you-quan/discuz.md)
-* [小米系](peng-you-quan/xiao-mi-xi.md)
 * [开源人](peng-you-quan/kai-yuan-ren-wu.md)
 * [媒体人](peng-you-quan/mei-ti-ren.md)
 * [投资人](peng-you-quan/tou-zi-ren.md)
