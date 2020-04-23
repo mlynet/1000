@@ -28,6 +28,8 @@
 * [陈书艺](ren-wu/chen-shu-yi.md)
 * [潘爱民](ren-wu/untitled.md)
 * [杨勇](ren-wu/yang-yong.md)
+* [姚欣](ren-wu/yao-xin.md)
+* [赵斌](ren-wu/zhao-bin.md)
 
 ## 朋友圈
 
