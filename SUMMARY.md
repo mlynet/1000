@@ -34,6 +34,4 @@
 ## 朋友圈
 
 * [Discuz系](peng-you-quan/discuz.md)
-* [媒体人](peng-you-quan/mei-ti-ren.md)
-* [投资人](peng-you-quan/tou-zi-ren.md)
 

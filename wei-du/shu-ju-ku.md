@@ -1,10 +1,16 @@
 # 数据库
 
-## 刘奇、黄东旭
+## 刘奇
 
 刘奇：TiDB、Codis开源项目发起人，PingCAP 联合创始人&CEO
 
-开源数据库：TiDB ，[https://github.com/pingcap/tidb](https://github.com/pingcap/tidb)
+
+
+### 黄东旭
+
+PingCAP 联合创始人兼 CTO、资深基础软件工程师、架构师。曾就职于微软亚洲研究院、网易有道及豌豆荚。擅长分布式系统以及数据库开发，在分布式存储领域有丰富的经验和独到的见解。狂热的开源爱好者以及开源软件作者，代表作品分布式 Redis 缓存方案 Codis，以及分布式关系型数据库 TiDB。2015 年创业，成立 PingCAP，在 PingCAP 的主要工作是从零开始设计并研发开源 NewSQL 数据库 TiDB，目前 GitHub 上该项目累积 star 数超过 23000，集合了 400 多位 Contributors。
+
+TiDB ，[https://github.com/pingcap/tidb](https://github.com/pingcap/tidb)
 
 {% embed url="https://pingcap.com" %}
 
