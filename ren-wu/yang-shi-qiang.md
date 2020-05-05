@@ -1,5 +1,9 @@
 # 杨士强
 
+杨士强（1973级计算机系）
+
+
+
 清华主页：
 
 {% embed url="http://media.cs.tsinghua.edu.cn/cn/yangsq" %}

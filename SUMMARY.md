@@ -7,6 +7,7 @@
 * [清华](wei-du/qing-hua.md)
 * [哈工大](wei-du/ha-gong-da.md)
 * [清华大学1996级](wei-du/qing-hua-da-xue-1996-ji.md)
+* [清华校友总会](wei-du/qing-hua-xiao-you-zong-hui.md)
 * [1996 大事记](wei-du/1996-da-shi-ji.md)
 * [1997 大事记](wei-du/1997-da-shi-ji.md)
 * [1998 大事记](wei-du/1998-da-shi-ji.md)
@@ -22,6 +23,7 @@
 * [周枫](ren-wu/zhou-feng.md)
 * [王小川](ren-wu/wang-xiao-chuan.md)
 * [周杰](ren-wu/zhou-jie.md)
+* [周云帆](ren-wu/zhou-yun-fan.md)
 
 ## 源创会 <a id="peng-you-quan"></a>
 
