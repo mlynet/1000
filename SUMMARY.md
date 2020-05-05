@@ -15,6 +15,7 @@
 
 ## 人物
 
+* [张钹](ren-wu/zhang-bo.md)
 * [杨士强](ren-wu/yang-shi-qiang.md)
 * [周悦芝](ren-wu/zhou-yue-zhi.md)
 * [许朝军](ren-wu/xu-zhao-jun.md)
