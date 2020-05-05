@@ -1,6 +1,6 @@
 # Table of contents
 
-* [技术人物清单](README.md)
+* [清华1996](README.md)
 
 ## 维度
 
