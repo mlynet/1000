@@ -6,11 +6,21 @@
 
 * [清华](wei-du/qing-hua.md)
 * [哈工大](wei-du/ha-gong-da.md)
+* [清华大学1996级](wei-du/qing-hua-da-xue-1996-ji.md)
+* [1996 大事记](wei-du/1996-da-shi-ji.md)
+* [1997 大事记](wei-du/1997-da-shi-ji.md)
+* [1998 大事记](wei-du/1998-da-shi-ji.md)
+* [1999 大事记](wei-du/1999-da-shi-ji.md)
+* [2000 大事记](wei-du/2000-da-shi-ji.md)
 
 ## 人物
 
 * [杨士强](ren-wu/yang-shi-qiang.md)
 * [周悦芝](ren-wu/zhou-yue-zhi.md)
+* [许朝军](ren-wu/xu-zhao-jun.md)
+* [周枫](ren-wu/zhou-feng.md)
+* [王小川](ren-wu/wang-xiao-chuan.md)
+* [周杰](ren-wu/zhou-jie.md)
 
 ## 源创会 <a id="peng-you-quan"></a>
 
