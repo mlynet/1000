@@ -1,18 +1,18 @@
 # Table of contents
 
-* [源创会](README.md)
+* [清华 1996-2000](README.md)
 
 ## 维度
 
 * [清华](wei-du/qing-hua.md)
 * [哈工大](wei-du/ha-gong-da.md)
-* [微软亚洲研究院](wei-du/wei-ruan-ya-zhou-yan-jiu-yuan.md)
-* [智源研究院](wei-du/zhi-yuan-yan-jiu-yuan.md)
 
 ## 人物
 
 ## 源创会 <a id="peng-you-quan"></a>
 
+* [微软亚洲研究院](peng-you-quan/wei-ruan-ya-zhou-yan-jiu-yuan.md)
+* [智源研究院](peng-you-quan/zhi-yuan-yan-jiu-yuan.md)
 * [源创会](peng-you-quan/yuan-chuang-hui.md)
 * [盛大创新院](peng-you-quan/sheng-da-chuang-xin-yuan.md)
 * [头条（抖音）](peng-you-quan/tou-tiao.md)
