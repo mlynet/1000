@@ -9,6 +9,9 @@
 
 ## 人物
 
+* [杨士强](ren-wu/yang-shi-qiang.md)
+* [周悦芝](ren-wu/zhou-yue-zhi.md)
+
 ## 源创会 <a id="peng-you-quan"></a>
 
 * [微软亚洲研究院](peng-you-quan/wei-ruan-ya-zhou-yan-jiu-yuan.md)
