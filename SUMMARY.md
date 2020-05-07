@@ -15,6 +15,10 @@
 * [1999 大事记](wei-du/1999-da-shi-ji.md)
 * [2000 大事记](wei-du/2000-da-shi-ji.md)
 * [计算机系科协](wei-du/ji-suan-ji-xi-xue-sheng-ke-xie.md)
+* [竞赛](wei-du/jing-sai.md)
+* [清华创业大赛](wei-du/qing-hua-chuang-ye-da-sai.md)
+* [ChinaRen](wei-du/chinaren.md)
+* [出国](wei-du/chu-guo.md)
 
 ## 人物
 
