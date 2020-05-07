@@ -6,7 +6,7 @@
 
 {% embed url="https://mp.weixin.qq.com/s/-GKp7RbCnwFeJUiubQXx8A" %}
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 Daniel Povey  **（**Kaldi，小米**语音首席科学家）**
 
