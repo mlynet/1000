@@ -22,7 +22,7 @@
 
 我系党委进行换届，张凤昌任党委书记。
 
-![&#x6559;&#x80B2;&#x90E8;&#x90E8;&#x957F;&#x9648;&#x81F3;&#x7ACB;\(&#x5DE6;\)&#x5230;&#x201C;&#x667A;&#x80FD;&#x6280;&#x672F;&#x4E0E;&#x7CFB;&#x7EDF;&#x201D;&#x56FD;&#x5BB6;&#x91CD;&#x70B9;&#x5B9E;&#x9A8C;&#x5BA4;&#x53C2;&#x89C2;&#x6307;&#x5BFC;&#x5DE5;&#x4F5C;](../.gitbook/assets/image%20%2816%29.png)
+![&#x6559;&#x80B2;&#x90E8;&#x90E8;&#x957F;&#x9648;&#x81F3;&#x7ACB;\(&#x5DE6;\)&#x5230;&#x201C;&#x667A;&#x80FD;&#x6280;&#x672F;&#x4E0E;&#x7CFB;&#x7EDF;&#x201D;&#x56FD;&#x5BB6;&#x91CD;&#x70B9;&#x5B9E;&#x9A8C;&#x5BA4;&#x53C2;&#x89C2;&#x6307;&#x5BFC;&#x5DE5;&#x4F5C;](../.gitbook/assets/image%20%2817%29.png)
 
 
 
