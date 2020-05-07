@@ -13,6 +13,7 @@
 * [1998 大事记](wei-du/1998-da-shi-ji.md)
 * [1999 大事记](wei-du/1999-da-shi-ji.md)
 * [2000 大事记](wei-du/2000-da-shi-ji.md)
+* [计算机系学生科协](wei-du/ji-suan-ji-xi-xue-sheng-ke-xie.md)
 
 ## 人物
 
