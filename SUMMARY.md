@@ -4,6 +4,7 @@
 
 ## 维度
 
+* [1996](wei-du/1996.md)
 * [清华](wei-du/qing-hua.md)
 * [哈工大](wei-du/ha-gong-da.md)
 * [清华大学1996级](wei-du/qing-hua-da-xue-1996-ji.md)
@@ -27,9 +28,11 @@
 * [周悦芝](ren-wu/zhou-yue-zhi.md)
 * [许朝军](ren-wu/xu-zhao-jun.md)
 * [周枫](ren-wu/zhou-feng.md)
+* [庄莉](ren-wu/zhuang-li.md)
 * [王小川](ren-wu/wang-xiao-chuan.md)
 * [周杰](ren-wu/zhou-jie.md)
 * [周云帆](ren-wu/zhou-yun-fan.md)
+* [杨宁](ren-wu/yang-ning.md)
 
 ## 源创会 <a id="peng-you-quan"></a>
 
