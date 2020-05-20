@@ -33,6 +33,7 @@
 * [周杰](ren-wu/zhou-jie.md)
 * [周云帆](ren-wu/zhou-yun-fan.md)
 * [杨宁](ren-wu/yang-ning.md)
+* [陈一舟](ren-wu/chen-yi-zhou.md)
 
 ## 源创会 <a id="peng-you-quan"></a>
 
