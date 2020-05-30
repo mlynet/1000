@@ -39,7 +39,9 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table>"Vision, Passion and Execution." 我将在伯克利的导师的良言送给所有的学弟学妹们，祝福你们前程似锦。
+</table>
+
+"Vision, Passion and Execution." 我将在伯克利的导师的良言送给所有的学弟学妹们，祝福你们前程似锦。
 
 　　　　　　　　　　　　　　　　　　　　　　　　　                                                                                                     ——周枫
 
