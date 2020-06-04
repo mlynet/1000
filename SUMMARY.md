@@ -20,10 +20,13 @@
 * [清华创业大赛](wei-du/qing-hua-chuang-ye-da-sai.md)
 * [ChinaRen](wei-du/chinaren.md)
 * [出国](wei-du/chu-guo.md)
+* [水木清华](wei-du/shui-mu-qing-hua.md)
+* [CERNET](wei-du/cernet.md)
 
 ## 人物
 
 * [张钹](ren-wu/zhang-bo.md)
+* [吴建平](ren-wu/wu-jian-ping.md)
 * [杨士强](ren-wu/yang-shi-qiang.md)
 * [周悦芝](ren-wu/zhou-yue-zhi.md)
 * [许朝军](ren-wu/xu-zhao-jun.md)
